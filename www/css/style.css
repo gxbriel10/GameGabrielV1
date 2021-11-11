@@ -1,0 +1,20 @@
+/**/
+
+canvas{
+  background-image: url("https://i.pinimg.com/originals/e8/a3/bf/e8a3bf6f023735f2987e8b915b63bf6b.gif");
+  background-size: 100% 450px;
+  width: 100%;
+}
+
+button{
+  height: 60px;
+}
+
+button svg{
+  height: 40px;
+  width: 40px;
+}
+
+body{
+  background-color: #D3D3D3
+}
